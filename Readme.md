@@ -1,4 +1,2 @@
-hello world 
--------------------------------------
-testing
-online change
+#record my study of git
+
